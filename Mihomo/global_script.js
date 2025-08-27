@@ -53,6 +53,7 @@ const rules = [
   'PROCESS-NAME,SunloginClient.exe,DIRECT',
   'PROCESS-NAME,AnyDesk,DIRECT',
   'PROCESS-NAME,AnyDesk.exe,DIRECT',
+  'DOMAIN-SUFFIX,github.com,默认节点'
 ]
 
 /**
