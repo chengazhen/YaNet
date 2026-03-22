@@ -189,6 +189,7 @@ const rules = [
   'DOMAIN-SUFFIX,nblink.cc,直连',
   'DOMAIN-SUFFIX,ionewu.com,直连',
   'DOMAIN-SUFFIX,vicp.net,直连',
+  'IP-CIDR,47.83.167.254/32,直连,no-resolve',
 ]
 
 // 地区定义 (Icons 更新为 GitHub Raw)
