@@ -43,7 +43,7 @@ const defaultArgs = {
   mode: 'default',
   ipv6: false,
   logLevel: 'error',
-  githubProxy: '',
+  githubProxy: 'https://ghfast.top/',
 }
 
 let args = typeof $arguments !== 'undefined' ? $arguments : defaultArgs
